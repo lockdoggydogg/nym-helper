@@ -1,1 +1,0 @@
-export const MAIN_URL = 'https://mixnet.explorers.guru/mixnodes'
